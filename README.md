@@ -10,7 +10,6 @@ Este repositório contém códigos e anotações do livro *Data Science do Zero*
   - Exemplos de código
 
 - **Capítulo 2 - Ferramentas de Desenvolvimento**
-  - Configuração do ambiente
   - Introdução ao Python
   - Bibliotecas essenciais para ciência de dados
 
